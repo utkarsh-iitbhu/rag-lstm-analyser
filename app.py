@@ -3,9 +3,6 @@ B2B Review Insights Platform
 ----------------------------
 This application processes customer reviews using sentiment analysis and RAG (Retrieval-Augmented Generation)
 to provide actionable business intelligence insights.
-
-Author: Professional Data Science Team
-Version: 2.0
 """
 
 import streamlit as st
